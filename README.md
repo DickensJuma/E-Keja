@@ -42,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](img/e-keja.png)
+[![Product Name Screen Shot][product-screenshot]](img/E-Keja.png)
 
  Provision of linkage to companies providing house assets and Instant E-movers
 
